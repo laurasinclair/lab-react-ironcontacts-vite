@@ -40,3 +40,40 @@
 .read-the-docs {
   color: #888;
 }
+
+.contact-pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.buttons button {
+  margin: 20px 20px 30px;
+  cursor: pointer;
+}
+
+.contacts {
+  width: 100%
+}
+
+.contacts_picture {
+  width: 20%
+}
+
+.contacts_name {
+  width: 20%
+}
+
+.contacts_popularity {
+  width: 15%
+}
+
+.contacts_wonOscar,
+.contacts_wonEmmy {
+  width: 12%
+}
+
+.contacts_deleteBtn {
+  width: 15%
+}
